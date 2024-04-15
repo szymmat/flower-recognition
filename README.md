@@ -4,7 +4,7 @@ A Python project that allows to train a neural network on any set of labeled ima
 Usage: python train.py data_dir <br/>
 data_dir is a path to directory with images. Images must be organized in a following way: <br/>
 / <br/>
-/class1 <br/>
+/class1/ <br/>
 /class1/image1 <br/>
 /class1/image2 <br/>
 ... <br/>
